@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T08:59:10.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="V5eV5eUeLDbUpJF96ao1" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T08:59:36.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="FR-lOa_JlwfRES1E3kmk" version="20.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1896" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1497" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -145,8 +145,10 @@
         <mxCell id="JWPkaghvcUCzBnXea29I-34" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;Put the strand and new&amp;nbsp;&amp;nbsp;strand in the child node&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="716" width="134" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7cT7psV1rFNmRGeLaKFk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.995;entryY=0.469;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9Jic5jevJVb1GwjityKB-2" target="JWPkaghvcUCzBnXea29I-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7cT7psV1rFNmRGeLaKFk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9Jic5jevJVb1GwjityKB-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="509" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9Jic5jevJVb1GwjityKB-2" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;If it is a sense strand&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=1;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="135.25" y="469" width="170.5" height="80" as="geometry" />
